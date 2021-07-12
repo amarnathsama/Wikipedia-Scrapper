@@ -1,0 +1,1 @@
+Website scrapper which extracts movie names from wikipedia pages, additionally it also sorts them according to certain criterias.
